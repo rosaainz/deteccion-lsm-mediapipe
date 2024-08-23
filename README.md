@@ -24,7 +24,7 @@ La aplicación utiliza una serie de proyectos de código abierto para funcionar 
 pip install -U scikit-learn scipy matplotlib
 ```
 ## Author
-Hecho con mucha pasión [RosaSainz](https://github.com/rosaainz) 💜
+[RosaSainz](https://github.com/rosaainz) 💜
 
    [MediaPipe]: <https://ai.google.dev/edge/mediapipe/solutions/guide?hl=es-419>
    [Scikit-learn]: <https://scikit-learn.org/stable/>
